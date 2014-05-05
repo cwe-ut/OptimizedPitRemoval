@@ -10,6 +10,8 @@ The Optimized Pit Removal tool uses a combination of cut and fill to remove all 
 
 The tool also allows users to mark specific depressions to be left unmodified by setting the lowest cell to have a value of No Data. This feature can be used to establish reservoirs as well as known drainage features such as storm sewer inlets. 
 
+The approach used by this tool is based on work by Pierre Soille (Soille, Pierre. “Optimal removal of spurious pits in grid digital elevation models.” Water Resources Research 40, W12509 (2004): 1-9.). Some changes have been made to the published algorithm. More detailed information can be found in the Documentation folder of this project.
+
 About the tool
 --------------
 This tool consists of two parts. The pit removal tool itself is an executable code written in Visual Studio C++ 2010 which takes an ASCII DEM as an input and returns a hydrologically conditioned ASCII DEM as an output. This can be used via command line independently of ArcGIS. An ArcGIS 10.1 toolbox using Python contains a set of tools designed to facilitate the process of removing pits and delineating streams.
