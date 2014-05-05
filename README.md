@@ -32,7 +32,8 @@ Limitations
 
 Suggested Improvements
 ----------------------
-1. Develop and implement an algorithm to allow pit removal of tiled or mosaicked DEMs.
+1. Develop and implement an algorithm to allow pit removal of tiled or mosaicked DEMs. 
+The TauDEM tools created by Dr. Tarboton support this kind of parallel processing. The algorithms used by TauDEM can serve as a starting place for developing that required by the Optimized Pit Removal tool. http://hydrology.usu.edu/taudem/taudem5/
 2. Create a set of ArcGIS Toolboxes for various versions of ArcGIS.
 3. Improve performance to increase the practical grid size limit.
 4. Identify and correct any bugs.
