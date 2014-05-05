@@ -1,0 +1,9 @@
+<PAMDataset>
+  <SRS>PROJCS[&quot;NAD83(HARN) / UTM zone 15N&quot;,GEOGCS[&quot;NAD83(HARN)&quot;,DATUM[&quot;D_North_American_1983_HARN&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Transverse_Mercator&quot;],PARAMETER[&quot;false_easting&quot;,500000.0],PARAMETER[&quot;false_northing&quot;,0.0],PARAMETER[&quot;central_meridian&quot;,-93.0],PARAMETER[&quot;scale_factor&quot;,0.9996],PARAMETER[&quot;latitude_of_origin&quot;,0.0],UNIT[&quot;Meter&quot;,1.0],VERTCS[&quot;NAVD_1988&quot;,VDATUM[&quot;North_American_Vertical_Datum_1988&quot;],PARAMETER[&quot;Vertical_Shift&quot;,0.0],PARAMETER[&quot;Direction&quot;,1.0],UNIT[&quot;Meter&quot;,1.0]]]</SRS>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <NoDataValue le_hex_equiv="000000A0FFFFEFC7">-3.40282306073710E+038</NoDataValue>
+  </PAMRasterBand>
+</PAMDataset>
