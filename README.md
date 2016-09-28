@@ -37,3 +37,8 @@ The TauDEM tools created by Dr. Tarboton support this kind of parallel processin
 2. Create a set of ArcGIS Toolboxes for various versions of ArcGIS.
 3. Improve performance to increase the practical grid size limit.
 4. Identify and correct any bugs.
+
+Related Research
+----------------
+LAGO Consulting and Services has developed a similar tool called Fill Sings Plus, using different principles. More information can be found here:
+http://www.lago-consulting.com/fill_sinks_plus.html
