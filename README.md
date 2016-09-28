@@ -37,6 +37,8 @@ The TauDEM tools created by Dr. Tarboton support this kind of parallel processin
 2. Create a set of ArcGIS Toolboxes for various versions of ArcGIS.
 3. Improve performance to increase the practical grid size limit.
 4. Identify and correct any bugs.
+5. Update tool for more recent versions of ArcGIS.
+6. It has been noted that the Step Size option has difficulty if the input uses a comma rather than period for the decimal seperator. 
 
 Related Research
 ----------------
